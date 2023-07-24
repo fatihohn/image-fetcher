@@ -1,5 +1,5 @@
 # image-fetcher
 
 ```
-npm run ${url}
+npm run start ${url}
 ```
